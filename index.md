@@ -1,8 +1,9 @@
 # Dollars Not Data
 
-Welcome Dollars Not Data! Below you can find a list of services and
-applications that value you privacy. Instead of using your personal
-data in order to make those services sustainable, you pay for them instead.
+Welcome to Dollars Not Data! Below you can find a list of services and
+applications that value your privacy. Instead of using your personal
+data in order to make those services and applications sustainable, you
+pay for them instead.
 
 Some of these services might be useable without paying and some don't
 accept money at all, however, we encourage you to pay or donate.
