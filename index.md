@@ -6,7 +6,7 @@ data in order to make those services sustainable, you pay for them instead.
 
 ## Contribute
 
-If you wish to contribute services to this list, either
+If you wish to contribute services or applications to this list, either
 [make a pullrequest on GitHub](https://github.com/DollarsNotData/DollarsNotData/compare)
 or [hit us up with an E-Mail](mailto://marcelschr@protonmail.com).
 
