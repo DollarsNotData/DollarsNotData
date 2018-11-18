@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Dollars Not Data
 
-You can use the [editor on GitHub](https://github.com/DollarsNotData/DollarsNotData/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome Dollars Not Data! Below you can find a list of services and
+applications that value you privacy. Instead of using your personal
+data in order to make those services sustainable, you pay for them instead.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contribute
 
-### Markdown
+If you wish to contribute services to this list, either
+[make a pullrequest on GitHub](https://github.com/DollarsNotData/DollarsNotData/compare)
+or [hit us up with an E-Mail](mailto://marcelschr@protonmail.com).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Services and applications
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DollarsNotData/DollarsNotData/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Communication
+  * E-Mail
+    * [Protonmail](https://protonmail.com) - *optional payment*
+* Security
+  * Password Management
+    * [BitWarden](https://bitwarden.com/) - *optional payment*
+* Browsing
+  * Browsers
+    * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - *free, [but you can donate](https://donate.mozilla.org/en-US/)*
+  * Ad-Blocking
+    * [UBlock Origin](https://github.com/gorhill/uBlock) - *free* -  **!!!NOT TO BE CONFUSED WITH [UBlock](https://ublock.org)!!!**
+* Software Development Collaboration
+  * [sr.ht](https://sr.ht) - *Currently in public alpha phase*
+* Social Media
+  * [Mastodon](https://mastodon.social/about) 
