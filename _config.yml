@@ -1,5 +1,18 @@
-title: Dollars Not Data
+name: "Dollars Not Data"
 description: >
   A simple website that lists a couple of services and applications that
   respect your privacy and aren't kept sustainable by using your personal
   data.
+
+baseurl: ""
+url: "https://dollarsnotdata.com"
+
+gems:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
